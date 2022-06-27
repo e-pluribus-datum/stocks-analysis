@@ -15,7 +15,7 @@ The original subroutine was updated with the formatting block at the end of the 
 | ![original2017](./Resources/original_code_2017.png) | ![refactored2017](./Resources/VBA_Challenge_2017.png) |
 | ![original2018](./Resources/original_code_2018.png) | ![refactored2018](./Resources/VBA_Challenge_2018.png) |
 
-Compared to the original, the refactored subroutine ran in 12.2% of the time for 2017 and 12.6% of the time for 2018.
+Compared to the original, the refactored subroutine had 12.2% of the runtime for 2017 and 12.6% of the runtime for 2018.
 
 ## Summary
 
